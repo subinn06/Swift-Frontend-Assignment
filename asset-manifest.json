@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Swift-Frontend-Assignment/static/css/main.a89ab69c.css",
+    "main.js": "/Swift-Frontend-Assignment/static/js/main.3b45ab1d.js",
+    "static/js/453.d236a452.chunk.js": "/Swift-Frontend-Assignment/static/js/453.d236a452.chunk.js",
+    "index.html": "/Swift-Frontend-Assignment/index.html",
+    "main.a89ab69c.css.map": "/Swift-Frontend-Assignment/static/css/main.a89ab69c.css.map",
+    "main.3b45ab1d.js.map": "/Swift-Frontend-Assignment/static/js/main.3b45ab1d.js.map",
+    "453.d236a452.chunk.js.map": "/Swift-Frontend-Assignment/static/js/453.d236a452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a89ab69c.css",
+    "static/js/main.3b45ab1d.js"
+  ]
+}
