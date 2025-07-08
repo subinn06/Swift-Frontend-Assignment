@@ -1,0 +1,20 @@
+.comment-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #333;
+}
+
+.comment-table th,
+.comment-table td {
+  padding: 12px;
+  border: 1px solid #e2e8f0;
+  text-align: left;
+  vertical-align: top;
+}
+
+.comment-table th {
+  background-color: #b9bbbd;
+  font-weight: 600;
+}

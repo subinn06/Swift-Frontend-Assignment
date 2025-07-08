@@ -1,0 +1,46 @@
+.pagination-bar {
+  margin-top: 24px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  font-size: 14px;
+}
+
+.range-text {
+  color: #555;
+}
+
+.nav-arrow {
+  background: white;
+  border: 1px solid #ccc;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.nav-arrow:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.page-btn {
+  background: white;
+  border: 1px solid #ccc;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.page-btn.active {
+  background-color: #1d2b53;
+  color: white;
+  border: 1px solid #1d2b53;
+}
+
+.page-size-dropdown {
+  padding: 6px 8px;
+  font-size: 14px;
+  border-radius: 4px;
+}
